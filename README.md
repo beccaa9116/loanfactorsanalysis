@@ -38,7 +38,6 @@ This repo contains a data analysis project focused on identifying the key factor
 - [x] Handling missing values and data cleaning
 - [x] Exploratory plots and initial trends
 - [ ] Feature engineering and transformation
-- [ ] Model preparation and selection
 - [ ] Insights and conclusions
 
 ---
